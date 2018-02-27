@@ -98,3 +98,4 @@ Settings::setData([
 # Contributors
 
 - Aykut OKYAY - [Github](https://github.com/okyayaykut)
+
