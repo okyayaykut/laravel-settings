@@ -28,7 +28,7 @@ Add an alias for the facade to your `config/app.php`
 Publish the config files:
 
 ```
-$ php artisan vendor:publish --provider="Webjektif\LaravelConfig\LaravelConfigServiceProvider"
+$ php artisan vendor:publish --provider="okyayaykut\LaravelConfig\LaravelConfigServiceProvider"
 ```
 
 Change `config/settings.php` according for changing json file path.
