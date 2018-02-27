@@ -58,7 +58,7 @@ class LaravelConfig
         } else {
             $this->data[$keys] = $value;
         }
-
+        $this->save();
         return $this;
     }
 
